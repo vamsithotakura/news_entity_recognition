@@ -1,0 +1,27 @@
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+### WebStorm ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+*.iml
+
+# All other node, react stuff
+/node_modules
+/public
+/storage/coverage
+.DS_Store
+.env
