@@ -8,7 +8,13 @@
 1. Capped off implementation at three hours - this project is a bit heavy on the UI side and also requires deep working knowledge of react frameworks.
 2. Need to re-work on UI renderings and CSS.
 
-## TO-DO :
+## RUN INSTRUCTIONS
+Pre-requisites : npm && node installation
+1. Client : `cd client && npm start`
+2. Server : `cd server && node app.js`
+
+
+## TO-DO 
 1. Improve UI rendering - current UI implementation is super basic and is far off from the ideal.
 2. Figure out `useEffect` state-hooks.
 3. Refactor basic table to a third party react-component. 
